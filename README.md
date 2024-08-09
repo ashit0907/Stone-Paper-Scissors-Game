@@ -3,5 +3,6 @@ It is a Stone Paper Scissors game made on python using random module for more in
 I have also provided comments and a brief explanation using docstrings.
 <br>
 Author :- Ashit Nayak
+<br>
 Python Coder
 
